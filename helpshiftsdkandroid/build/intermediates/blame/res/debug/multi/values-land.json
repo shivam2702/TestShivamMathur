@@ -1,0 +1,142 @@
+[
+    {
+        "outputFile": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 69,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 63,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 70,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 67,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endColumn": 71,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 71,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

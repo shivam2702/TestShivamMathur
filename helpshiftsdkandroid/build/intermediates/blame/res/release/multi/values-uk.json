@@ -1,0 +1,2964 @@
+[
+    {
+        "outputFile": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-uk\\values-uk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 109,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 109,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 107,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 107,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 122,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 122,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 101,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 101,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 105,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 105,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 85,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 85,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 107,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 107,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 117,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 117,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 78,
+                    "endOffset": 1401
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 78,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1406,
+                    "endColumn": 79,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 79,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 80,
+                    "endOffset": 1562
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endColumn": 80,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1567,
+                    "endColumn": 105,
+                    "endOffset": 1668
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 105,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1673,
+                    "endColumn": 106,
+                    "endOffset": 1775
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 106,
+                        "endOffset": 1364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1780,
+                    "endColumn": 97,
+                    "endOffset": 1873
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1369,
+                        "endColumn": 97,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1878,
+                    "endColumn": 107,
+                    "endOffset": 1981
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 107,
+                        "endOffset": 1570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1986,
+                    "endColumn": 105,
+                    "endOffset": 2087
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1575,
+                        "endColumn": 105,
+                        "endOffset": 1676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2092,
+                    "endColumn": 108,
+                    "endOffset": 2196
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 108,
+                        "endOffset": 1785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2201,
+                    "endColumn": 123,
+                    "endOffset": 2320
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1790,
+                        "endColumn": 123,
+                        "endOffset": 1909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2325,
+                    "endColumn": 99,
+                    "endOffset": 2420
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1914,
+                        "endColumn": 99,
+                        "endOffset": 2009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2425,
+                    "endColumn": 57,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 57,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endColumn": 77,
+                    "endOffset": 2556
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 77,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2561,
+                    "endColumn": 67,
+                    "endOffset": 2624
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 67,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2629,
+                    "endColumn": 61,
+                    "endOffset": 2686
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 61,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2691,
+                    "endColumn": 58,
+                    "endOffset": 2745
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 58,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2750,
+                    "endColumn": 63,
+                    "endOffset": 2809
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 63,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2814,
+                    "endColumn": 63,
+                    "endOffset": 2873
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 63,
+                        "endOffset": 914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2878,
+                    "endColumn": 65,
+                    "endOffset": 2939
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 65,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2944,
+                    "endColumn": 60,
+                    "endOffset": 3000
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 60,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3005,
+                    "endColumn": 65,
+                    "endOffset": 3066
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 65,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3071,
+                    "endColumn": 63,
+                    "endOffset": 3130
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 63,
+                        "endOffset": 1171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3135,
+                    "endColumn": 65,
+                    "endOffset": 3196
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1176,
+                        "endColumn": 65,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3201,
+                    "endColumn": 61,
+                    "endOffset": 3258
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 61,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3263,
+                    "endColumn": 59,
+                    "endOffset": 3318
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1304,
+                        "endColumn": 59,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3323,
+                    "endColumn": 48,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 48,
+                        "endOffset": 1408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3372,
+                    "endColumn": 75,
+                    "endOffset": 3443
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1413,
+                        "endColumn": 75,
+                        "endOffset": 1484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3448,
+                    "endColumn": 63,
+                    "endOffset": 3507
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1489,
+                        "endColumn": 63,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3512,
+                    "endColumn": 63,
+                    "endOffset": 3571
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 63,
+                        "endOffset": 1612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3576,
+                    "endColumn": 64,
+                    "endOffset": 3636
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1617,
+                        "endColumn": 64,
+                        "endOffset": 1677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3641,
+                    "endColumn": 59,
+                    "endOffset": 3696
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1682,
+                        "endColumn": 59,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3701,
+                    "endColumn": 73,
+                    "endOffset": 3770
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 73,
+                        "endOffset": 1811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3775,
+                    "endColumn": 59,
+                    "endOffset": 3830
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1816,
+                        "endColumn": 59,
+                        "endOffset": 1871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3835,
+                    "endColumn": 67,
+                    "endOffset": 3898
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1876,
+                        "endColumn": 67,
+                        "endOffset": 1939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3903,
+                    "endColumn": 50,
+                    "endOffset": 3949
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1944,
+                        "endColumn": 50,
+                        "endOffset": 1990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3954,
+                    "endColumn": 51,
+                    "endOffset": 4001
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1995,
+                        "endColumn": 51,
+                        "endOffset": 2042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4006,
+                    "endColumn": 48,
+                    "endOffset": 4050
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2047,
+                        "endColumn": 48,
+                        "endOffset": 2091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4055,
+                    "endColumn": 71,
+                    "endOffset": 4122
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2096,
+                        "endColumn": 71,
+                        "endOffset": 2163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4127,
+                    "endColumn": 56,
+                    "endOffset": 4179
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2168,
+                        "endColumn": 56,
+                        "endOffset": 2220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4184,
+                    "endColumn": 73,
+                    "endOffset": 4253
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2225,
+                        "endColumn": 73,
+                        "endOffset": 2294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4258,
+                    "endColumn": 79,
+                    "endOffset": 4333
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2299,
+                        "endColumn": 79,
+                        "endOffset": 2374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4338,
+                    "endColumn": 100,
+                    "endOffset": 4434
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2379,
+                        "endColumn": 100,
+                        "endOffset": 2475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4439,
+                    "endColumn": 50,
+                    "endOffset": 4485
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2480,
+                        "endColumn": 50,
+                        "endOffset": 2526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4490,
+                    "endColumn": 50,
+                    "endOffset": 4536
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2531,
+                        "endColumn": 50,
+                        "endOffset": 2577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4541,
+                    "endColumn": 67,
+                    "endOffset": 4604
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2582,
+                        "endColumn": 67,
+                        "endOffset": 2645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4609,
+                    "endColumn": 68,
+                    "endOffset": 4673
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2650,
+                        "endColumn": 68,
+                        "endOffset": 2714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4678,
+                    "endColumn": 124,
+                    "endOffset": 4798
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2719,
+                        "endColumn": 124,
+                        "endOffset": 2839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4803,
+                    "endColumn": 87,
+                    "endOffset": 4886
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2844,
+                        "endColumn": 87,
+                        "endOffset": 2927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4891,
+                    "endColumn": 85,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2932,
+                        "endColumn": 85,
+                        "endOffset": 3013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 65,
+                    "endOffset": 5038
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3018,
+                        "endColumn": 65,
+                        "endOffset": 3079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5043,
+                    "endColumn": 87,
+                    "endOffset": 5126
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3084,
+                        "endColumn": 87,
+                        "endOffset": 3167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5131,
+                    "endColumn": 74,
+                    "endOffset": 5201
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3172,
+                        "endColumn": 74,
+                        "endOffset": 3242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5206,
+                    "endColumn": 59,
+                    "endOffset": 5261
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3247,
+                        "endColumn": 59,
+                        "endOffset": 3302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5266,
+                    "endLine": 73,
+                    "endColumn": 11,
+                    "endOffset": 5389
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3307,
+                        "endLine": 54,
+                        "endColumn": 11,
+                        "endOffset": 3430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5394,
+                    "endColumn": 42,
+                    "endOffset": 5432
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3435,
+                        "endColumn": 42,
+                        "endOffset": 3473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5437,
+                    "endColumn": 101,
+                    "endOffset": 5534
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3478,
+                        "endColumn": 101,
+                        "endOffset": 3575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5539,
+                    "endColumn": 104,
+                    "endOffset": 5639
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3580,
+                        "endColumn": 104,
+                        "endOffset": 3680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5644,
+                    "endColumn": 76,
+                    "endOffset": 5716
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3685,
+                        "endColumn": 76,
+                        "endOffset": 3757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5721,
+                    "endColumn": 90,
+                    "endOffset": 5807
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3762,
+                        "endColumn": 90,
+                        "endOffset": 3848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5812,
+                    "endColumn": 61,
+                    "endOffset": 5869
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3853,
+                        "endColumn": 61,
+                        "endOffset": 3910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5874,
+                    "endColumn": 57,
+                    "endOffset": 5927
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3915,
+                        "endColumn": 57,
+                        "endOffset": 3968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5932,
+                    "endColumn": 90,
+                    "endOffset": 6018
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3973,
+                        "endColumn": 90,
+                        "endOffset": 4059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6023,
+                    "endColumn": 55,
+                    "endOffset": 6074
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4064,
+                        "endColumn": 55,
+                        "endOffset": 4115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6079,
+                    "endColumn": 79,
+                    "endOffset": 6154
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4120,
+                        "endColumn": 79,
+                        "endOffset": 4195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6159,
+                    "endColumn": 74,
+                    "endOffset": 6229
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4200,
+                        "endColumn": 74,
+                        "endOffset": 4270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6234,
+                    "endColumn": 67,
+                    "endOffset": 6297
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4275,
+                        "endColumn": 67,
+                        "endOffset": 4338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6302,
+                    "endColumn": 83,
+                    "endOffset": 6381
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4343,
+                        "endColumn": 83,
+                        "endOffset": 4422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6386,
+                    "endLine": 89,
+                    "endColumn": 11,
+                    "endOffset": 6518
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4427,
+                        "endLine": 70,
+                        "endColumn": 11,
+                        "endOffset": 4559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6523,
+                    "endColumn": 67,
+                    "endOffset": 6586
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4564,
+                        "endColumn": 67,
+                        "endOffset": 4627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6591,
+                    "endColumn": 47,
+                    "endOffset": 6634
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4632,
+                        "endColumn": 47,
+                        "endOffset": 4675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6639,
+                    "endColumn": 73,
+                    "endOffset": 6708
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4680,
+                        "endColumn": 73,
+                        "endOffset": 4749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6713,
+                    "endColumn": 68,
+                    "endOffset": 6777
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4754,
+                        "endColumn": 68,
+                        "endOffset": 4818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6782,
+                    "endColumn": 99,
+                    "endOffset": 6877
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4823,
+                        "endColumn": 99,
+                        "endOffset": 4918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6882,
+                    "endColumn": 121,
+                    "endOffset": 6999
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4923,
+                        "endColumn": 121,
+                        "endOffset": 5040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7004,
+                    "endColumn": 47,
+                    "endOffset": 7047
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 5045,
+                        "endColumn": 47,
+                        "endOffset": 5088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7052,
+                    "endColumn": 68,
+                    "endOffset": 7116
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5093,
+                        "endColumn": 68,
+                        "endOffset": 5157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7121,
+                    "endColumn": 54,
+                    "endOffset": 7171
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 5162,
+                        "endColumn": 54,
+                        "endOffset": 5212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7176,
+                    "endColumn": 77,
+                    "endOffset": 7249
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5217,
+                        "endColumn": 77,
+                        "endOffset": 5290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7254,
+                    "endColumn": 67,
+                    "endOffset": 7317
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5295,
+                        "endColumn": 67,
+                        "endOffset": 5358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7322,
+                    "endColumn": 53,
+                    "endOffset": 7371
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5363,
+                        "endColumn": 53,
+                        "endOffset": 5412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7376,
+                    "endColumn": 49,
+                    "endOffset": 7421
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 5417,
+                        "endColumn": 49,
+                        "endOffset": 5462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7426,
+                    "endColumn": 67,
+                    "endOffset": 7489
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5467,
+                        "endColumn": 67,
+                        "endOffset": 5530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7494,
+                    "endColumn": 49,
+                    "endOffset": 7539
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5535,
+                        "endColumn": 49,
+                        "endOffset": 5580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7544,
+                    "endColumn": 49,
+                    "endOffset": 7589
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5585,
+                        "endColumn": 49,
+                        "endOffset": 5630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7594,
+                    "endColumn": 50,
+                    "endOffset": 7640
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5635,
+                        "endColumn": 50,
+                        "endOffset": 5681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 7645,
+                    "endColumn": 54,
+                    "endOffset": 7695
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5686,
+                        "endColumn": 54,
+                        "endOffset": 5736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 7700,
+                    "endColumn": 53,
+                    "endOffset": 7749
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5741,
+                        "endColumn": 53,
+                        "endOffset": 5790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 7754,
+                    "endColumn": 52,
+                    "endOffset": 7802
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5795,
+                        "endColumn": 52,
+                        "endOffset": 5843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 7807,
+                    "endColumn": 67,
+                    "endOffset": 7870
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5848,
+                        "endColumn": 67,
+                        "endOffset": 5911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 7875,
+                    "endColumn": 74,
+                    "endOffset": 7945
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5916,
+                        "endColumn": 74,
+                        "endOffset": 5986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 7950,
+                    "endColumn": 76,
+                    "endOffset": 8022
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5991,
+                        "endColumn": 76,
+                        "endOffset": 6063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8027,
+                    "endColumn": 106,
+                    "endOffset": 8129
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 6068,
+                        "endColumn": 106,
+                        "endOffset": 6170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8134,
+                    "endColumn": 176,
+                    "endOffset": 8306
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 6175,
+                        "endColumn": 176,
+                        "endOffset": 6347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8311,
+                    "endColumn": 78,
+                    "endOffset": 8385
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 6352,
+                        "endColumn": 78,
+                        "endOffset": 6426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 8390,
+                    "endColumn": 42,
+                    "endOffset": 8428
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 6431,
+                        "endColumn": 42,
+                        "endOffset": 6469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 8433,
+                    "endColumn": 83,
+                    "endOffset": 8512
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6474,
+                        "endColumn": 83,
+                        "endOffset": 6553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 8517,
+                    "endColumn": 44,
+                    "endOffset": 8557
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6558,
+                        "endColumn": 44,
+                        "endOffset": 6598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 8562,
+                    "endColumn": 81,
+                    "endOffset": 8639
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6603,
+                        "endColumn": 81,
+                        "endOffset": 6680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 8644,
+                    "endColumn": 77,
+                    "endOffset": 8717
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 6685,
+                        "endColumn": 77,
+                        "endOffset": 6758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 8722,
+                    "endColumn": 71,
+                    "endOffset": 8789
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6763,
+                        "endColumn": 71,
+                        "endOffset": 6830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 8794,
+                    "endColumn": 74,
+                    "endOffset": 8864
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6835,
+                        "endColumn": 74,
+                        "endOffset": 6905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 8869,
+                    "endColumn": 75,
+                    "endOffset": 8940
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6910,
+                        "endColumn": 75,
+                        "endOffset": 6981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 8945,
+                    "endColumn": 68,
+                    "endOffset": 9009
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6986,
+                        "endColumn": 68,
+                        "endOffset": 7050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 9014,
+                    "endColumn": 82,
+                    "endOffset": 9092
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 7055,
+                        "endColumn": 82,
+                        "endOffset": 7133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 9097,
+                    "endColumn": 98,
+                    "endOffset": 9191
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7138,
+                        "endColumn": 98,
+                        "endOffset": 7232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 9196,
+                    "endColumn": 73,
+                    "endOffset": 9265
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 7237,
+                        "endColumn": 73,
+                        "endOffset": 7306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 9270,
+                    "endColumn": 160,
+                    "endOffset": 9426
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 7311,
+                        "endColumn": 160,
+                        "endOffset": 7467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 9431,
+                    "endColumn": 78,
+                    "endOffset": 9505
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 7472,
+                        "endColumn": 78,
+                        "endOffset": 7546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 9510,
+                    "endColumn": 96,
+                    "endOffset": 9602
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 7551,
+                        "endColumn": 96,
+                        "endOffset": 7643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 9607,
+                    "endColumn": 80,
+                    "endOffset": 9683
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 7648,
+                        "endColumn": 80,
+                        "endOffset": 7724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 9688,
+                    "endColumn": 49,
+                    "endOffset": 9733
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 7729,
+                        "endColumn": 49,
+                        "endOffset": 7774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 9738,
+                    "endColumn": 90,
+                    "endOffset": 9824
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 7779,
+                        "endColumn": 90,
+                        "endOffset": 7865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 9829,
+                    "endColumn": 95,
+                    "endOffset": 9920
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 7870,
+                        "endColumn": 95,
+                        "endOffset": 7961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 9925,
+                    "endColumn": 51,
+                    "endOffset": 9972
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 7966,
+                        "endColumn": 51,
+                        "endOffset": 8013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 9977,
+                    "endColumn": 69,
+                    "endOffset": 10042
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 8018,
+                        "endColumn": 69,
+                        "endOffset": 8083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 10047,
+                    "endColumn": 74,
+                    "endOffset": 10117
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 8088,
+                        "endColumn": 74,
+                        "endOffset": 8158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10122,
+                    "endColumn": 89,
+                    "endOffset": 10207
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 8163,
+                        "endColumn": 89,
+                        "endOffset": 8248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 10212,
+                    "endColumn": 59,
+                    "endOffset": 10267
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 8253,
+                        "endColumn": 59,
+                        "endOffset": 8308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 10272,
+                    "endLine": 142,
+                    "endColumn": 11,
+                    "endOffset": 10394
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 8313,
+                        "endLine": 123,
+                        "endColumn": 11,
+                        "endOffset": 8435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 10399,
+                    "endColumn": 102,
+                    "endOffset": 10497
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 8440,
+                        "endColumn": 102,
+                        "endOffset": 8538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 10502,
+                    "endColumn": 64,
+                    "endOffset": 10562
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 8543,
+                        "endColumn": 64,
+                        "endOffset": 8603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 10567,
+                    "endColumn": 53,
+                    "endOffset": 10616
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 8608,
+                        "endColumn": 53,
+                        "endOffset": 8657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 10621,
+                    "endLine": 148,
+                    "endColumn": 11,
+                    "endOffset": 10757
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 8662,
+                        "endLine": 129,
+                        "endColumn": 11,
+                        "endOffset": 8798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 10762,
+                    "endColumn": 96,
+                    "endOffset": 10854
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 8803,
+                        "endColumn": 96,
+                        "endOffset": 8895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 10859,
+                    "endColumn": 58,
+                    "endOffset": 10913
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 8900,
+                        "endColumn": 58,
+                        "endOffset": 8954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 10918,
+                    "endColumn": 75,
+                    "endOffset": 10989
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 8959,
+                        "endColumn": 75,
+                        "endOffset": 9030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 10994,
+                    "endColumn": 98,
+                    "endOffset": 11088
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 9035,
+                        "endColumn": 98,
+                        "endOffset": 9129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 11093,
+                    "endColumn": 83,
+                    "endOffset": 11172
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 9134,
+                        "endColumn": 83,
+                        "endOffset": 9213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 11177,
+                    "endColumn": 60,
+                    "endOffset": 11233
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 9218,
+                        "endColumn": 60,
+                        "endOffset": 9274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 11238,
+                    "endColumn": 103,
+                    "endOffset": 11337
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 9279,
+                        "endColumn": 103,
+                        "endOffset": 9378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 11342,
+                    "endColumn": 62,
+                    "endOffset": 11400
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 9383,
+                        "endColumn": 62,
+                        "endOffset": 9441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 11405,
+                    "endColumn": 50,
+                    "endOffset": 11451
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 9446,
+                        "endColumn": 50,
+                        "endOffset": 9492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 11456,
+                    "endColumn": 94,
+                    "endOffset": 11546
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 9497,
+                        "endColumn": 94,
+                        "endOffset": 9587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 11551,
+                    "endColumn": 62,
+                    "endOffset": 11609
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 9592,
+                        "endColumn": 62,
+                        "endOffset": 9650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 11614,
+                    "endColumn": 54,
+                    "endOffset": 11664
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 9655,
+                        "endColumn": 54,
+                        "endOffset": 9705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 11669,
+                    "endColumn": 108,
+                    "endOffset": 11773
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 9710,
+                        "endColumn": 108,
+                        "endOffset": 9814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 11778,
+                    "endColumn": 55,
+                    "endOffset": 11829
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 9819,
+                        "endColumn": 55,
+                        "endOffset": 9870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 11834,
+                    "endColumn": 56,
+                    "endOffset": 11886
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 9875,
+                        "endColumn": 56,
+                        "endOffset": 9927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 11891,
+                    "endColumn": 75,
+                    "endOffset": 11962
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 9932,
+                        "endColumn": 75,
+                        "endOffset": 10003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 11967,
+                    "endColumn": 66,
+                    "endOffset": 12029
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 10008,
+                        "endColumn": 66,
+                        "endOffset": 10070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12034,
+                    "endColumn": 60,
+                    "endOffset": 12090
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 10075,
+                        "endColumn": 60,
+                        "endOffset": 10131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 12095,
+                    "endColumn": 88,
+                    "endOffset": 12179
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 10136,
+                        "endColumn": 88,
+                        "endOffset": 10220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12184,
+                    "endColumn": 56,
+                    "endOffset": 12236
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\src\\main\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 10225,
+                        "endColumn": 56,
+                        "endOffset": 10277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 12241,
+                    "endColumn": 80,
+                    "endOffset": 12317
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2014,
+                        "endColumn": 80,
+                        "endOffset": 2090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12322,
+                    "endColumn": 100,
+                    "endOffset": 12418
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-uk\\values-uk.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2095,
+                        "endColumn": 100,
+                        "endOffset": 2191
+                    }
+                }
+            }
+        ]
+    }
+]

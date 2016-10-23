@@ -1,0 +1,684 @@
+[
+    {
+        "outputFile": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2180,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2600
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2605,
+                    "endColumn": 88,
+                    "endOffset": 2689
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2694,
+                    "endColumn": 100,
+                    "endOffset": 2790
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 100,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2795,
+                    "endColumn": 102,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endColumn": 102,
+                        "endOffset": 2893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3301
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2898,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3306,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3721
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 3721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3726,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4143
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3726,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4148,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4250
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4148,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4255,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4379
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4255,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4384,
+                    "endLine": 64,
+                    "endColumn": 10,
+                    "endOffset": 4602
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 10,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4607,
+                    "endColumn": 29,
+                    "endOffset": 4632
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 29,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4637,
+                    "endColumn": 35,
+                    "endOffset": 4668
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 35,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4673,
+                    "endLine": 69,
+                    "endColumn": 10,
+                    "endOffset": 4835
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endLine": 11,
+                        "endColumn": 10,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4840,
+                    "endLine": 71,
+                    "endColumn": 10,
+                    "endOffset": 4939
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endLine": 13,
+                        "endColumn": 10,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4944,
+                    "endLine": 74,
+                    "endColumn": 10,
+                    "endOffset": 5122
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endLine": 16,
+                        "endColumn": 10,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5127,
+                    "endLine": 77,
+                    "endColumn": 10,
+                    "endOffset": 5309
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endLine": 19,
+                        "endColumn": 10,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5314,
+                    "endLine": 88,
+                    "endColumn": 10,
+                    "endOffset": 6043
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endLine": 30,
+                        "endColumn": 10,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6048,
+                    "endLine": 95,
+                    "endColumn": 10,
+                    "endOffset": 6443
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1719,
+                        "endLine": 37,
+                        "endColumn": 10,
+                        "endOffset": 2114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6448,
+                    "endLine": 99,
+                    "endColumn": 10,
+                    "endOffset": 6693
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2119,
+                        "endLine": 41,
+                        "endColumn": 10,
+                        "endOffset": 2364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 6698,
+                    "endLine": 104,
+                    "endColumn": 10,
+                    "endOffset": 7011
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2369,
+                        "endLine": 46,
+                        "endColumn": 10,
+                        "endOffset": 2682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7016,
+                    "endLine": 109,
+                    "endColumn": 10,
+                    "endOffset": 7325
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2687,
+                        "endLine": 51,
+                        "endColumn": 10,
+                        "endOffset": 2996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 7330,
+                    "endLine": 114,
+                    "endColumn": 10,
+                    "endOffset": 7626
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3001,
+                        "endLine": 56,
+                        "endColumn": 10,
+                        "endOffset": 3297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7631,
+                    "endLine": 119,
+                    "endColumn": 10,
+                    "endOffset": 7922
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3302,
+                        "endLine": 61,
+                        "endColumn": 10,
+                        "endOffset": 3593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 7927,
+                    "endColumn": 70,
+                    "endOffset": 7993
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4384,
+                        "endColumn": 70,
+                        "endOffset": 4450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 7998,
+                    "endColumn": 82,
+                    "endOffset": 8076
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4455,
+                        "endColumn": 82,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 8081,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 12015
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 12020,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 16097
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8477,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 16102,
+                    "endColumn": 90,
+                    "endOffset": 16188
+                },
+                "from": {
+                    "file": "C:\\Users\\Mathurs\\AndroidStudioProjects\\TestShivamMathur\\helpshiftsdkandroid\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12559,
+                        "endColumn": 90,
+                        "endOffset": 12645
+                    }
+                }
+            }
+        ]
+    }
+]
